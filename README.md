@@ -68,8 +68,4 @@ These decisions involve complex tradeoffs and subjective risks.
 
 ---
 
-## 📸 Screenshots
 
-*(Include a few screenshots here if you want — interpretation optional)*
-
-Example UI:
